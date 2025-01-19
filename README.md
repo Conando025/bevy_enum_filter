@@ -1,4 +1,4 @@
-# bevy_enum_filter
+# bevy_enum_filter (Deprecated)
 
 [![Crates.io](https://img.shields.io/crates/v/bevy_enum_filter)](https://crates.io/crates/bevy_enum_filter)
 [![Docs](https://img.shields.io/docsrs/bevy_enum_filter)](https://docs.rs/bevy_enum_filter/) 
